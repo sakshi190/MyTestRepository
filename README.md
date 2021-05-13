@@ -1,2 +1,2 @@
 # MyTestRepository
-This is repo demo
+This is repo demo for git commands demonstration
